@@ -1,2 +1,2 @@
-Print("Hola caracola")
-Print ("Hello world")
+print("Hola caracola")
+print ("Hello world")
